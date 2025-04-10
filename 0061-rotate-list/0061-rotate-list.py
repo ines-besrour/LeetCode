@@ -7,7 +7,7 @@ class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         if not head or not k:
             return head
-        node,fast=head,ListNode(next=head)
+        node,tail=head,ListNode(next=head)
         n=0
         while node:
             n+=1
@@ -16,10 +16,10 @@ class Solution:
         if not k:
             return head
         for _ in range(n-k):
-            fast=fast.next
-        top=fast.next
+            tail=tail.next
+        top=tail.next
         dummy=top
-        fast.next=None
+        tail.next=None
         while top.next:
             top=top.next
         top.next=head
