@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ines-besrour/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+## Array
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/ines-besrour/LeetCode/tree/master/0221-maximal-square) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/ines-besrour/LeetCode/tree/master/0221-maximal-square) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/ines-besrour/LeetCode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
