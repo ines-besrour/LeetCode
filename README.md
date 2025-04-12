@@ -22,12 +22,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ines-besrour/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ines-besrour/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ines-besrour/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ines-besrour/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ines-besrour/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ines-besrour/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ines-besrour/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
