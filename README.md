@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ines-besrour/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0279-perfect-squares](https://github.com/ines-besrour/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ines-besrour/LeetCode/tree/master/0322-coin-change) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ines-besrour/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ines-besrour/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ines-besrour/LeetCode/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/ines-besrour/LeetCode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/ines-besrour/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ines-besrour/LeetCode/tree/master/0322-coin-change) |
 ## Matrix
 |  |
@@ -110,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ines-besrour/LeetCode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/ines-besrour/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
