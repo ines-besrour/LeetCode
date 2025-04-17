@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ines-besrour/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/ines-besrour/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ines-besrour/LeetCode/tree/master/0140-word-break-ii) |
+| [0198-house-robber](https://github.com/ines-besrour/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ines-besrour/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ines-besrour/LeetCode/tree/master/0322-coin-change) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ines-besrour/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ines-besrour/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ines-besrour/LeetCode/tree/master/0140-word-break-ii) |
+| [0198-house-robber](https://github.com/ines-besrour/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ines-besrour/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/ines-besrour/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ines-besrour/LeetCode/tree/master/0322-coin-change) |
