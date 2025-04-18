@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ines-besrour/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/ines-besrour/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ines-besrour/LeetCode/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ines-besrour/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ines-besrour/LeetCode/tree/master/0139-word-break) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/ines-besrour/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ines-besrour/LeetCode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/ines-besrour/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ines-besrour/LeetCode/tree/master/0140-word-break-ii) |
