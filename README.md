@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ines-besrour/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ines-besrour/LeetCode/tree/master/0140-word-break-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ines-besrour/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ines-besrour/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ines-besrour/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ines-besrour/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ines-besrour/LeetCode/tree/master/0322-coin-change) |
+| [0560-subarray-sum-equals-k](https://github.com/ines-besrour/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ines-besrour/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ines-besrour/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
