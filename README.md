@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ines-besrour/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ines-besrour/LeetCode/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/ines-besrour/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ines-besrour/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Design
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ines-besrour/LeetCode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/ines-besrour/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ines-besrour/LeetCode/tree/master/0140-word-break-ii) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ines-besrour/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ines-besrour/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ines-besrour/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ines-besrour/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
