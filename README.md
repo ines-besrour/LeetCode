@@ -14,9 +14,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/ines-besrour/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ines-besrour/LeetCode/tree/master/0086-partition-list) |
+| [0295-find-median-from-data-stream](https://github.com/ines-besrour/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ines-besrour/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0838-design-linked-list](https://github.com/ines-besrour/LeetCode/tree/master/0838-design-linked-list) |
 ## Tree
 |  |
@@ -115,4 +117,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ines-besrour/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/ines-besrour/LeetCode/tree/master/0279-perfect-squares) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ines-besrour/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ines-besrour/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ines-besrour/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
