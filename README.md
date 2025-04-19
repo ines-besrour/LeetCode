@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ines-besrour/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/ines-besrour/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ines-besrour/LeetCode/tree/master/0322-coin-change) |
+| [0945-snakes-and-ladders](https://github.com/ines-besrour/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ines-besrour/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ines-besrour/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/ines-besrour/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ines-besrour/LeetCode/tree/master/0739-daily-temperatures) |
+| [0945-snakes-and-ladders](https://github.com/ines-besrour/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/ines-besrour/LeetCode/tree/master/0221-maximal-square) |
+| [0945-snakes-and-ladders](https://github.com/ines-besrour/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## String
 |  |
 | ------- |
