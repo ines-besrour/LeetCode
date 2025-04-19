@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ines-besrour/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0133-clone-graph](https://github.com/ines-besrour/LeetCode/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/ines-besrour/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ines-besrour/LeetCode/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/ines-besrour/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/ines-besrour/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/ines-besrour/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ines-besrour/LeetCode/tree/master/0140-word-break-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ines-besrour/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ines-besrour/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0133-clone-graph](https://github.com/ines-besrour/LeetCode/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ines-besrour/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ines-besrour/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ines-besrour/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ines-besrour/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ines-besrour/LeetCode/tree/master/0739-daily-temperatures) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/ines-besrour/LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
