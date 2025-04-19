@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ines-besrour/LeetCode/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/ines-besrour/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/ines-besrour/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/ines-besrour/LeetCode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,8 +161,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ines-besrour/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/ines-besrour/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ines-besrour/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/ines-besrour/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
